@@ -12,6 +12,12 @@
 		7432DE3A209AD74000608CB3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE38209AD74000608CB3 /* Main.storyboard */; };
 		7432DE3C209AD74100608CB3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE3B209AD74100608CB3 /* Assets.xcassets */; };
 		7432DE3F209AD74100608CB3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE3D209AD74100608CB3 /* LaunchScreen.storyboard */; };
+		7432DE47209AE65F00608CB3 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE46209AE65E00608CB3 /* 2.png */; };
+		7432DE4D209AE93100608CB3 /* Cow.png in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE48209AE93100608CB3 /* Cow.png */; };
+		7432DE4E209AE93100608CB3 /* Lion.png in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE49209AE93100608CB3 /* Lion.png */; };
+		7432DE4F209AE93100608CB3 /* Monkey.png in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE4A209AE93100608CB3 /* Monkey.png */; };
+		7432DE50209AE93100608CB3 /* Tiger.png in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE4B209AE93100608CB3 /* Tiger.png */; };
+		7432DE51209AE93100608CB3 /* Cat.png in Resources */ = {isa = PBXBuildFile; fileRef = 7432DE4C209AE93100608CB3 /* Cat.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		7432DE3B209AD74100608CB3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7432DE3E209AD74100608CB3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7432DE40209AD74100608CB3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7432DE46209AE65E00608CB3 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		7432DE48209AE93100608CB3 /* Cow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cow.png; sourceTree = "<group>"; };
+		7432DE49209AE93100608CB3 /* Lion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lion.png; sourceTree = "<group>"; };
+		7432DE4A209AE93100608CB3 /* Monkey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Monkey.png; sourceTree = "<group>"; };
+		7432DE4B209AE93100608CB3 /* Tiger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tiger.png; sourceTree = "<group>"; };
+		7432DE4C209AE93100608CB3 /* Cat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cat.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,12 @@
 		7432DE33209AD74000608CB3 /* Simple TableView */ = {
 			isa = PBXGroup;
 			children = (
+				7432DE4C209AE93100608CB3 /* Cat.png */,
+				7432DE48209AE93100608CB3 /* Cow.png */,
+				7432DE49209AE93100608CB3 /* Lion.png */,
+				7432DE4A209AE93100608CB3 /* Monkey.png */,
+				7432DE4B209AE93100608CB3 /* Tiger.png */,
+				7432DE46209AE65E00608CB3 /* 2.png */,
 				7432DE34209AD74000608CB3 /* AppDelegate.swift */,
 				7432DE36209AD74000608CB3 /* ViewController.swift */,
 				7432DE38209AD74000608CB3 /* Main.storyboard */,
@@ -124,7 +142,13 @@
 			files = (
 				7432DE3F209AD74100608CB3 /* LaunchScreen.storyboard in Resources */,
 				7432DE3C209AD74100608CB3 /* Assets.xcassets in Resources */,
+				7432DE4F209AE93100608CB3 /* Monkey.png in Resources */,
+				7432DE51209AE93100608CB3 /* Cat.png in Resources */,
+				7432DE4D209AE93100608CB3 /* Cow.png in Resources */,
+				7432DE4E209AE93100608CB3 /* Lion.png in Resources */,
+				7432DE47209AE65F00608CB3 /* 2.png in Resources */,
 				7432DE3A209AD74000608CB3 /* Main.storyboard in Resources */,
+				7432DE50209AE93100608CB3 /* Tiger.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
